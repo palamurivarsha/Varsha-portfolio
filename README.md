@@ -148,7 +148,6 @@
                 </div>
     <!-- Certifications -->
     <section id="certifications" class="container">
-    <h2>Licenses & Certifications</h2>
     <ul>
       <li>
         <strong>Cloud GCP Intern</strong> – <em>Wipro</em><br />
