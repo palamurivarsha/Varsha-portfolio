@@ -76,7 +76,6 @@
             </div>
         </div>
     </section>
-
     <!-- Education Section -->
     <section id="education" class="py-20 bg-gray-900">
         <div class="max-w-6xl mx-auto px-4">
@@ -168,6 +167,12 @@
 
     <div class="space-y-6">
       <!-- Certification Card -->
+      
+      <div class="bg-gray-800 p-6 rounded-lg shadow-lg" data-aos="fade-up">
+        <h3 class="text-xl font-semibold text-blue-400">ITIL Foundation Certificate in IT Service Management – PeopleCert</h3>
+        <p class="text-sm text-gray-400">2023</p>
+        <p class="mt-2 text-gray-200">Completed foundational certification in IT Service Management.</p>
+      </div>
       <div class="bg-gray-800 p-6 rounded-lg shadow-lg" data-aos="fade-up">
         <h3 class="text-xl font-semibold text-blue-400">Cloud GCP Intern – Wipro</h3>
         <p class="text-sm text-gray-400">2022</p>
@@ -184,12 +189,6 @@
         <h3 class="text-xl font-semibold text-blue-400">Introduction to Ethical Hacking – Supraja Technologies</h3>
         <p class="text-sm text-gray-400">2020</p>
         <p class="mt-2 text-gray-200">Gained knowledge on security solutions and performed bug fixes on personal IDs.</p>
-      </div>
-
-      <div class="bg-gray-800 p-6 rounded-lg shadow-lg" data-aos="fade-up">
-        <h3 class="text-xl font-semibold text-blue-400">ITIL Foundation Certificate in IT Service Management – PeopleCert</h3>
-        <p class="text-sm text-gray-400">2023</p>
-        <p class="mt-2 text-gray-200">Completed foundational certification in IT Service Management.</p>
       </div>
     </div>
   </div>
