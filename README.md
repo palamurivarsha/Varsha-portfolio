@@ -61,7 +61,7 @@
     <section id="home" class="min-h-screen flex items-center justify-center bg-gradient-to-b from-gray-900 to-gray-800">
         <div class="text-center" data-aos="fade-up">
             <h1 class="text-5xl font-bold mb-4">Hi, I'm Varsha Palamuri</h1>
-            <p class="text-xl mb-6">Data Science & AI Master's Student | Full-Stack Developer | Infrastructure Specialist</p>
+            <p class="text-xl mb-6">Infrastructure Specialist</p>
             <a href="#contact" class="btn btn-primary mr-4">Get in Touch</a>
             <a href="https://www.linkedin.com/in/varsha-p-b42826203/" target="_blank" class="btn btn-primary">View LinkedIn</a>
         </div>
