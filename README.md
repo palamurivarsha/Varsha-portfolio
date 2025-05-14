@@ -65,7 +65,7 @@
             <h1 class="text-5xl font-bold mb-4">Hi, I'm Varsha Palamuri</h1>
             <p class="text-xl mb-6">Data Science & AI Master's Student | Full-Stack Developer | Infrastructure Specialist</p>
             <a href="#contact" class="btn btn-primary mr-4">Get in Touch</a>
-            <a href="https://www.linkedin.com/in/varsha-palamuri" target="_blank" class="btn btn-primary">View LinkedIn</a>
+            <a href="https://www.linkedin.com/in/varsha-p-b42826203/" target="_blank" class="btn btn-primary">View LinkedIn</a>
         </div>
     </section>
 
@@ -103,7 +103,28 @@
             </div>
         </div>
     </section>
-
+    <!--Certifications-->
+<section id="certifications" class="container">
+    <h2>Licenses & Certifications</h2>
+    <ul>
+      <li>
+        <strong>Cloud GCP Intern</strong> – <em>Wipro</em><br />
+        Developed an E-Commerce Website and deployed it on Google Cloud Platform — <strong>2022</strong>
+      </li>
+      <li>
+        <strong>Network Systems</strong> – <em>BSNL</em><br />
+        Learned Networking Concepts, Designed Campus Area Network — <strong>2021</strong>
+      </li>
+      <li>
+        <strong>Introduction to Ethical Hacking</strong> – <em>Supraja Technologies</em><br />
+        Covered Security Solutions, Bug fixes on Personal ID — <strong>2020</strong>
+      </li>
+      <li>
+        <strong>ITIL Foundation Certificate in IT Service Management</strong> – <em>PeopleCert</em><br />
+        Completed foundational certification in ITSM — <strong>2023</strong>
+      </li>
+    </ul>
+  </section>
     <!-- Experience Section -->
     <section id="experience" class="py-20">
         <div class="max-w-6xl mx-auto px-4">
@@ -149,6 +170,8 @@
                         <li>Health Checks</li>
                     </ul>
                 </div>
+
+                
                 <div class="card" data-aos="fade-up" data-aos-delay="100">
                     <h3 class="text-xl font-semibold text-blue-400 mb-4">Tools</h3>
                     <ul class="list-disc pl-5">
@@ -180,7 +203,7 @@
                     <h3 class="text-xl font-semibold text-blue-400 mb-4">Get in Touch</h3>
                     <p><i class="fas fa-envelope mr-2"></i> <a href="mailto:varshapabc123@gmail.com">varshapabc123@gmail.com</a></p>
                     <p><i class="fas fa-phone mr-2"></i> <a href="tel:+16605805111">+1 660-580-5111</a></p>
-                    <p><i class="fab fa-linkedin mr-2"></i> <a href="https://www.linkedin.com/in/varsha-palamuri" target="_blank">LinkedIn</a></p>
+                    <p><i class="fab fa-linkedin mr-2"></i> <a href="https://www.linkedin.com/in/varsha-p-b42826203/" target="_blank">LinkedIn</a></p>
                 </div>
                 <div class="card" data-aos="fade-up" data-aos-delay="100">
                     <h3 class="text-xl font-semibold text-blue-400 mb-4">Send a Message</h3>
