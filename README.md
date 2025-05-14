@@ -204,7 +204,7 @@
     <!-- Footer -->
     <footer class="bg-gray-800 py-6 text-center">
         <div class="flex justify-center space-x-6 mb-4">
-            <a href="https://www.linkedin.com/in/varsha-palamuri" target="_blank" class="text-blue-400 hover:text-blue-300"><i class="fab fa-linkedin fa-2x"></i></a>
+            <a href="https://www.linkedin.com/in/varsha-p-b42826203/" target="_blank" class="text-blue-400 hover:text-blue-300"><i class="fab fa-linkedin fa-2x"></i></a>
             <a href="mailto:varshapabc123@gmail.com" class="text-blue-400 hover:text-blue-300"><i class="fas fa-envelope fa-2x"></i></a>
         </div>
         <p>&copy; 2025 Varsha Palamuri. All rights reserved.</p>
