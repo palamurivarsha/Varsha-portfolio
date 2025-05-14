@@ -62,7 +62,7 @@
         <div class="text-center" data-aos="fade-up">
             <!-- Profile Photo -->
             <img 
-                src="https://github.com/palamurivarsha/Varsha-portfolio/blob/main/photo.jpg" 
+                src="https://github.com/palamurivarsha/Varsha-portfolio/blob/main/photo%20(1).jpg" 
                 alt="Varsha Palamuri Profile Photo" 
                 class="w-32 h-32 md:w-48 md:h-48 rounded-full mx-auto mb-6 object-cover border-4 border-blue-400" 
                 loading="lazy"
