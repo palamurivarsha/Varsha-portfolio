@@ -60,13 +60,6 @@
     <!-- Hero Section -->
     <section id="home" class="min-h-screen flex items-center justify-center bg-gradient-to-b from-gray-900 to-gray-800">
         <div class="text-center" data-aos="fade-up">
-            <!-- Profile Photo -->
-            <img 
-                src="https://github.com/palamurivarsha/Varsha-portfolio/blob/main/photo%20(1).jpg" 
-                alt="Varsha Palamuri Profile Photo" 
-                class="w-32 h-32 md:w-48 md:h-48 rounded-full mx-auto mb-6 object-cover border-4 border-blue-400" 
-                loading="lazy"
-            >
             <h1 class="text-5xl font-bold mb-4">Hi, I'm Varsha Palamuri</h1>
             <p class="text-xl mb-6">Data Science & AI Master's Student | Full-Stack Developer | Infrastructure Specialist</p>
             <a href="#contact" class="btn btn-primary mr-4">Get in Touch</a>
