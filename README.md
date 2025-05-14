@@ -1,5 +1,3 @@
-# Varsha-portfoli
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -148,7 +146,8 @@
                         <li>Health Checks</li>
                     </ul>
                 </div>
-<section id="certifications" class="container">
+    <!-- Certifications -->
+    <section id="certifications" class="container">
     <h2>Licenses & Certifications</h2>
     <ul>
       <li>
@@ -168,7 +167,7 @@
         Completed foundational certification in ITSM — <strong>2023</strong>
       </li>
     </ul>
-  </section>
+    </section>
                 
                 <div class="card" data-aos="fade-up" data-aos-delay="100">
                     <h3 class="text-xl font-semibold text-blue-400 mb-4">Tools</h3>
