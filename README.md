@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--title>Varsha Palamuri - Portfolio</title>
+    <title>Varsha Palamuri - Portfolio</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- AOS Library for Animations -->
@@ -60,6 +60,13 @@
     <!-- Hero Section -->
     <section id="home" class="min-h-screen flex items-center justify-center bg-gradient-to-b from-gray-900 to-gray-800">
         <div class="text-center" data-aos="fade-up">
+            <!-- Profile Photo -->
+            <img 
+                src="https://github.com/palamurivarsha/Varsha-portfolio/blob/main/photo.jpg" 
+                alt="Varsha Palamuri Profile Photo" 
+                class="w-32 h-32 md:w-48 md:h-48 rounded-full mx-auto mb-6 object-cover border-4 border-blue-400" 
+                loading="lazy"
+            >
             <h1 class="text-5xl font-bold mb-4">Hi, I'm Varsha Palamuri</h1>
             <p class="text-xl mb-6">Data Science & AI Master's Student | Full-Stack Developer | Infrastructure Specialist</p>
             <a href="#contact" class="btn btn-primary mr-4">Get in Touch</a>
@@ -76,6 +83,7 @@
             </div>
         </div>
     </section>
+
     <!-- Education Section -->
     <section id="education" class="py-20 bg-gray-900">
         <div class="max-w-6xl mx-auto px-4">
@@ -89,9 +97,10 @@
                     <h3 class="text-xl font-semibold text-blue-400">B.Tech in Electronics & Communication</h3>
                     <p>Sreyas Institute of Engineering and Technology | 2018 - 2022 | CGPA: 7.88</p>
                 </div>
-               </div>
+            </div>
         </div>
     </section>
+
     <!-- Experience Section -->
     <section id="experience" class="py-20">
         <div class="max-w-6xl mx-auto px-4">
@@ -137,7 +146,6 @@
                         <li>Health Checks</li>
                     </ul>
                 </div>
-                
                 <div class="card" data-aos="fade-up" data-aos-delay="100">
                     <h3 class="text-xl font-semibold text-blue-400 mb-4">Tools</h3>
                     <ul class="list-disc pl-5">
@@ -159,41 +167,35 @@
             </div>
         </div>
     </section>
-    
+
     <!-- Certifications Section -->
     <section id="certifications" class="py-20 bg-gray-900 text-white">
-    <div class="max-w-6xl mx-auto px-4">
-    <h2 class="text-3xl font-bold text-center mb-10">Licenses & Certifications</h2>
-
-    <div class="space-y-6">
-      <!-- Certification Card -->
-      
-      <div class="bg-gray-800 p-6 rounded-lg shadow-lg" data-aos="fade-up">
-        <h3 class="text-xl font-semibold text-blue-400">ITIL Foundation Certificate in IT Service Management – PeopleCert</h3>
-        <p class="text-sm text-gray-400">2023</p>
-        <p class="mt-2 text-gray-200">Completed foundational certification in IT Service Management.</p>
-      </div>
-      <div class="bg-gray-800 p-6 rounded-lg shadow-lg" data-aos="fade-up">
-        <h3 class="text-xl font-semibold text-blue-400">Cloud GCP Intern – Wipro</h3>
-        <p class="text-sm text-gray-400">2022</p>
-        <p class="mt-2 text-gray-200">Developed an E-Commerce Website and deployed it on Google Cloud Platform.</p>
-      </div>
-
-      <div class="bg-gray-800 p-6 rounded-lg shadow-lg" data-aos="fade-up">
-        <h3 class="text-xl font-semibold text-blue-400">Network Systems – BSNL</h3>
-        <p class="text-sm text-gray-400">2021</p>
-        <p class="mt-2 text-gray-200">Learned Networking Concepts and designed a Campus Area Network.</p>
-      </div>
-
-      <div class="bg-gray-800 p-6 rounded-lg shadow-lg" data-aos="fade-up">
-        <h3 class="text-xl font-semibold text-blue-400">Introduction to Ethical Hacking – Supraja Technologies</h3>
-        <p class="text-sm text-gray-400">2020</p>
-        <p class="mt-2 text-gray-200">Gained knowledge on security solutions and performed bug fixes on personal IDs.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
+        <div class="max-w-6xl mx-auto px-4">
+            <h2 class="section-title">Licenses & Certifications</h2>
+            <div class="space-y-6">
+                <div class="card" data-aos="fade-up">
+                    <h3 class="text-xl font-semibold text-blue-400">ITIL Foundation Certificate in IT Service Management – PeopleCert</h3>
+                    <p class="text-sm text-gray-400">2023</p>
+                    <p class="mt-2 text-gray-200">Completed foundational certification in IT Service Management.</p>
+                </div>
+                <div class="card" data-aos="fade-up">
+                    <h3 class="text-xl font-semibold text-blue-400">Cloud GCP Intern – Wipro</h3>
+                    <p class="text-sm text-gray-400">2022</p>
+                    <p class="mt-2 text-gray-200">Developed an E-Commerce Website and deployed it on Google Cloud Platform.</p>
+                </div>
+                <div class="card" data-aos="fade-up">
+                    <h3 class="text-xl font-semibold text-blue-400">Network Systems – BSNL</h3>
+                    <p class="text-sm text-gray-400">2021</p>
+                    <p class="mt-2 text-gray-200">Learned Networking Concepts and designed a Campus Area Network.</p>
+                </div>
+                <div class="card" data-aos="fade-up">
+                    <h3 class="text-xl font-semibold text-blue-400">Introduction to Ethical Hacking – Supraja Technologies</h3>
+                    <p class="text-sm text-gray-400">2020</p>
+                    <p class="mt-2 text-gray-200">Gained knowledge on security solutions and performed bug fixes on personal IDs.</p>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!-- Contact Section -->
     <section id="contact" class="py-20 bg-gray-900">
@@ -231,7 +233,7 @@
             <a href="https://www.linkedin.com/in/varsha-p-b42826203/" target="_blank" class="text-blue-400 hover:text-blue-300"><i class="fab fa-linkedin fa-2x"></i></a>
             <a href="mailto:varshapabc123@gmail.com" class="text-blue-400 hover:text-blue-300"><i class="fas fa-envelope fa-2x"></i></a>
         </div>
-        <p>&copy; 2025 Varsha Palamuri. All rights reserved.</p>
+        <p>© 2025 Varsha Palamuri. All rights reserved.</p>
     </footer>
 
     <!-- JavaScript for Smooth Scrolling and AOS Initialization -->
