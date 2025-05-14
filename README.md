@@ -90,15 +90,6 @@
                     <h3 class="text-xl font-semibold text-blue-400">B.Tech in Electronics & Communication</h3>
                     <p>Sreyas Institute of Engineering and Technology | 2018 - 2022 | CGPA: 7.88</p>
                 </div>
-                <div class="card" data-aos="fade-up" data-aos-delay="200">
-                    <h3 class="text-xl font-semibold text-blue-400">Intermediate Education</h3>
-                    <p>Narayana Junior College, Telangana | 2016 - 2018 | 93%</p>
-                </div>
-                <div class="card" data-aos="fade-up" data-aos-delay="300">
-                    <h3 class="text-xl font-semibold text-blue-400">Secondary School</h3>
-                    <p>Dilsukhnagar High School | 2015 - 2016 | CGPA: 9.3</p>
-                </div>
-            </div>
         </div>
     </section>
     <!-- Experience Section -->
