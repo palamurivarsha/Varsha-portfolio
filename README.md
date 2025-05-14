@@ -90,6 +90,7 @@
                     <h3 class="text-xl font-semibold text-blue-400">B.Tech in Electronics & Communication</h3>
                     <p>Sreyas Institute of Engineering and Technology | 2018 - 2022 | CGPA: 7.88</p>
                 </div>
+               </div>
         </div>
     </section>
     <!-- Experience Section -->
