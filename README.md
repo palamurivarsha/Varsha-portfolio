@@ -103,34 +103,12 @@
             </div>
         </div>
     </section>
-    <!--Certifications-->
-<section id="certifications" class="container">
-    <h2>Licenses & Certifications</h2>
-    <ul>
-      <li>
-        <strong>Cloud GCP Intern</strong> – <em>Wipro</em><br />
-        Developed an E-Commerce Website and deployed it on Google Cloud Platform — <strong>2022</strong>
-      </li>
-      <li>
-        <strong>Network Systems</strong> – <em>BSNL</em><br />
-        Learned Networking Concepts, Designed Campus Area Network — <strong>2021</strong>
-      </li>
-      <li>
-        <strong>Introduction to Ethical Hacking</strong> – <em>Supraja Technologies</em><br />
-        Covered Security Solutions, Bug fixes on Personal ID — <strong>2020</strong>
-      </li>
-      <li>
-        <strong>ITIL Foundation Certificate in IT Service Management</strong> – <em>PeopleCert</em><br />
-        Completed foundational certification in ITSM — <strong>2023</strong>
-      </li>
-    </ul>
-  </section>
     <!-- Experience Section -->
     <section id="experience" class="py-20">
         <div class="max-w-6xl mx-auto px-4">
             <h2 class="section-title">Experience</h2>
             <div class="card" data-aos="fade-up">
-                <h3 class="text-xl font-semibold text-blue-400">Associate Technical, Hitachi</h3>
+                <h3 class="text-xl font-semibold text-blue-400">Associate Technical Consultant, Hitachi</h3>
                 <p>Hyderabad, India | Feb 2023 – Dec 2024</p>
                 <ul class="list-disc pl-5 mt-4">
                     <li>Maintained Hitachi Vantara databases, storage systems, and servers.</li>
@@ -170,7 +148,27 @@
                         <li>Health Checks</li>
                     </ul>
                 </div>
-
+<section id="certifications" class="container">
+    <h2>Licenses & Certifications</h2>
+    <ul>
+      <li>
+        <strong>Cloud GCP Intern</strong> – <em>Wipro</em><br />
+        Developed an E-Commerce Website and deployed it on Google Cloud Platform — <strong>2022</strong>
+      </li>
+      <li>
+        <strong>Network Systems</strong> – <em>BSNL</em><br />
+        Learned Networking Concepts, Designed Campus Area Network — <strong>2021</strong>
+      </li>
+      <li>
+        <strong>Introduction to Ethical Hacking</strong> – <em>Supraja Technologies</em><br />
+        Covered Security Solutions, Bug fixes on Personal ID — <strong>2020</strong>
+      </li>
+      <li>
+        <strong>ITIL Foundation Certificate in IT Service Management</strong> – <em>PeopleCert</em><br />
+        Completed foundational certification in ITSM — <strong>2023</strong>
+      </li>
+    </ul>
+  </section>
                 
                 <div class="card" data-aos="fade-up" data-aos-delay="100">
                     <h3 class="text-xl font-semibold text-blue-400 mb-4">Tools</h3>
